@@ -1,0 +1,12 @@
+torch==1.7.1
+torchvision==0.8.2
+transformers==4.2.0
+tqdm
+pyhocon
+numpy
+tensorboard
+matplotlib
+graphviz
+seaborn
+stanza==1.1.1
+# https://github.com/stanfordnlp/stanza/pull/535
